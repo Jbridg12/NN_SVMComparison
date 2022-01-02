@@ -45,7 +45,7 @@ validation, because any more would melt the CPU, and uses the average of those f
 The script outputs the average accuracy over 3 folds of each neural network configuration that it tests to
 the console. At the top of the list is the identified best performing set of hyperparameters. 
 
-							**WARNING**
+									**WARNING**
 This script takes so long to perform it is necessary to make sure you computer is not set to automatically go to sleep.
 The coarse grid search is commented out initially so only the fine grid search will run unless changes are made.
 
